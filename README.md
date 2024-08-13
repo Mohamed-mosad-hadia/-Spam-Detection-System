@@ -24,3 +24,12 @@ Optimize the model by fine-tuning hyperparameters to improve performance.
 
 6. Final Model and Prediction
 Select the best-performing model, finalize it, and use it to make predictions on unseen data.
+
+
+
+
+# Results
+The project demonstrates the process of building a spam detection system with detailed explanations and code snippets. The final model achieves good performance on the dataset, making it suitable for practical use cases.
+
+# Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or new features.
