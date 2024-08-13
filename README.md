@@ -1,11 +1,11 @@
-#End-to-End Spam Detection System
+# End-to-End Spam Detection System
 
-#Overview
+# Overview
 
 The End-to-End Spam Detection System is a machine learning project aimed at classifying messages (such as emails or SMS) into two categories: Spam and Ham (not spam). This project leverages Natural Language Processing (NLP) techniques combined with Machine Learning algorithms to build an effective spam detection system.
 
 
-#Project Structure
+# Project Structure
 
 1. Data Loading and Exploration
 Load the dataset and perform an initial exploration to understand the structure and content of the data.
